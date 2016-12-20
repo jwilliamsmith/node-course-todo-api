@@ -25,4 +25,4 @@ app.listen(3000, () =>{
 	console.log("server listens on port 3k")
 });
 
-
+module.exports = {app};
